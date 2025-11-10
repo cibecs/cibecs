@@ -60,7 +60,7 @@
 ### 📫 Connect
 
 <p align="center">
-  <a href="mailto:sergio.cibecchini@protonmail.com"><img src="https://img.shields.io/badge/Email-ProtonMail-purple?style=for-the-badge&logo=protonmail" /></a>
+  <a href="mailto:sergio.cibecchini@studenti.unipd.it"><img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/sergiocibecchini"><img src="https://img.shields.io/badge/LinkedIn-sergiocibecchini-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
