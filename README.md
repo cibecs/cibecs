@@ -7,8 +7,8 @@
 ### 🧩 About Me
 
 - 🎓 **MSc Cybersecurity student** at the University of Padua  
-- 🧠 **Researcher** — co-author of a published paper on *AI-based drone jamming detection*  
-- 🥉 **CyberChallenge.IT finalist** — placed 3rd in local finals and competed nationally  
+- 🧠 **Researcher** - co-author of a published paper on *AI-based drone jamming detection*  
+- 🥉 **CyberChallenge.IT finalist** - placed 3rd in local finals and competed nationally  
 - 💼 **FIDIA TalentLab trainee** in Digital Transformation  
 - 💬 Passionate about **network security**, **AI**, **ethical hacking**, and **forensics**
 
