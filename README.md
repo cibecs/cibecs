@@ -1,11 +1,6 @@
 <h1 align="center">👋 Hi, I'm Sergio</h1>
 <h3 align="center">🎓 Cybersecurity Master's Student</h3>
 
-<p align="center">
-  <a href="mailto:sergio.cibecchini@protonmail.com"><img src="https://img.shields.io/badge/Email-sergio.cibecchini@protonmail.com-red?style=flat-square&logo=protonmail" /></a>
-  <a href="https://www.linkedin.com/in/sergiocibecchini"><img src="https://img.shields.io/badge/LinkedIn-sergiocibecchini-blue?style=flat-square&logo=linkedin" /></a>
-  <img src="https://img.shields.io/badge/Location-Florence,%20Italy-green?style=flat-square&logo=googlemaps" />
-</p>
 
 ---
 
@@ -35,30 +30,6 @@
   <img src="https://img.shields.io/badge/Ghidra-FF0000?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
 </p>
-
----
-
-### 🧠 Core Competencies
-
-- **Cybersecurity:** Cryptography, Web Security, Reverse Engineering, Network Security, Forensics  
-- **AI & Data Science:** Machine Learning, Deep Learning, AI-based Security Systems  
-- **Networking:** Cisco-certified (Networking & Cybersecurity Essentials)  
-- **System Administration:** Linux, Virtualization, TrueNAS  
-- **Web Development:** Full-stack fundamentals (HTML/CSS, JS, PHP, SQL)  
-- **Research & Writing:** Scientific Research, LaTeX, Academic Publications  
-
----
-
-### 🏆 Certifications
-
-| Certification | Organization | Date |
-|----------------|---------------|-------|
-| **OCI AI Foundations** | Oracle | Aug 2025 |
-| **Linux Essentials** | NDG | Dec 2024 |
-| **Cisco Cybersecurity Essentials** | Cisco | Dec 2024 |
-| **Cisco Networking Essentials** | Cisco | Oct 2024 |
-| **Cambridge Advanced English (C2)** | Cambridge English | Apr 2024 |
-| **Security Soft Start** | ONstairs Academy | Mar 2024 |
 
 ---
 
