@@ -40,7 +40,7 @@
 > [Future Internet 17(1)](https://doi.org/10.3390/fi17010014)
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -49,6 +49,7 @@
 </p>
 
 ---
+-->
 
 ### 🌐 Languages
 
